@@ -4,12 +4,15 @@
   Pythomon is a simple pokémon battle simulator and encyclopedia. It is also my first ever Python app!
 
   This is a desktop GUI application made with Tkinter, CustomTkinter, Pillow, NumPy and Pyglet.
+  
   ![Battle example](battle.gif)
+  
   The player will build their Pokémon team and manage their available moves, while they battle through ever harder stages.
 
   There is also a "hardcore mode", in which fainted Pokémon are permanently removed from the player's party. WATCH OUT!!!!!!!!!!!!!!!
 
   Finally, the Pokédex mode showcases every Pokémon included in the game, along with their stats and moves. I think it looks pretty neat.
+  
   ![Pokédex example](dex.gif)
 
  ## goals
