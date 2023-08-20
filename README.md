@@ -26,11 +26,6 @@
  ## wtf? this code sucks!!!
   Yes. As I said, I was literally learning about Python AS I was working on this, so there really isn't any real structure to the code or planning for the project. I "made it up as I went along" like George Lucas did while directing the Star Wars prequels.
 
-  Some early screenshots:
-  ![Early screenshot 1](early.png)
-  
-  ![Early screenshot 2](early2.png)
-
   I, of course, thought about reworking this into a cleaner, more refined app, but I decided phythomon has served its purpose and that I'm ready to move on to the next step in my journey
   
  ## lessons learned
