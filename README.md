@@ -1,7 +1,7 @@
 # pythomon
 ![Title](title.gif)
 
-[download]([https://www.example.com](https://github.com/jab-lao/pythomon/releases/tag/v1.0))
+[download](https://github.com/jab-lao/pythomon/releases/tag/v1.0)
  
  ## about
   Pythomon is a simple pokémon battle simulator and encyclopedia. It is also my first ever Python app!
